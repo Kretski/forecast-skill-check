@@ -132,7 +132,6 @@ python forecast_skill_check_v2.py "data/*.csv" --time "timestamp" --actual "actu
 
 ### Графика
 
-Ако графиката е генерирана със `make_chart.py`, добавете я в репото като `example/chart.png` и я покажете тук:
 
 ![Hourly bias and monthly skill](example/chart.png)
 
